@@ -4,9 +4,10 @@ body {
 }
 
 .profile {
-    width: 500px;
+    width: 400px;
     margin-bottom: 50px;
     border-radius: 30%;
+    z-index: 10;
 }
 
 #welcome {
